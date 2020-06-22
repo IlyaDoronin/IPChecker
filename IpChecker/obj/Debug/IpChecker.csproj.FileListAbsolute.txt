@@ -1,0 +1,35 @@
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\bin\Debug\IpChecker.exe.config
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\bin\Debug\IpChecker.exe
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\bin\Debug\IpChecker.pdb
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.csprojAssemblyReference.cache
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.Form1.resources
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.Properties.Resources.resources
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.csproj.GenerateResource.cache
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.csproj.CoreCompileInputs.cache
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.exe
+C:\Users\ryletd\Desktop\IpChecker\IpChecker\obj\Debug\IpChecker.pdb
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\IpChecker.exe.config
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\IpChecker.exe
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\IpChecker.pdb
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\EntityFramework.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\GMap.NET.Core.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\System.Data.SQLite.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\EntityFramework.xml
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\System.Data.SQLite.xml
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.Form1.resources
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.Help.resources
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.Properties.Resources.resources
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.csproj.GenerateResource.cache
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.csproj.CoreCompileInputs.cache
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.csproj.CopyComplete
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.exe
+C:\Users\rylet\OneDrive\Рабочий стол\IpChecker\IpChecker\obj\Debug\IpChecker.pdb
